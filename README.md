@@ -7,4 +7,4 @@ Muhammad Saad (64745)
 Ahmed Mehmood (12469)
 
 Project Title:
-Encryption and Deercryption.
+Encryption and Decryption.
