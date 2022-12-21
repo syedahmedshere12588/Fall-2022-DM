@@ -6,6 +6,5 @@ DM is the core subject of Computer Science. In DM we will design a assignment wi
 
 Our team members are 
 
-Muhammad saad (64745)
-Syed ahmed shere (12588)
-Ahmed mahmood (12469)
+Muhammad Saad (64745)
+Syed Ahmed Ahere (12588)
